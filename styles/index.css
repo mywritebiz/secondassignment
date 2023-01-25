@@ -1,0 +1,58 @@
+h1 {
+    color:black; 
+    font-size: 40px;
+    font-weight: 800;
+    font-style: italic;
+    text-align: center;
+    background-color:rgb(48, 67, 14, 0.6);
+}
+h2{
+    text-align: center;
+    color: darkblue;
+    text-decoration: underline;
+    font-size: 30px;
+}
+h3{
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    background-color: darkolivegreen;
+}
+/*This is a good way to try out different styles 
+for your webpage*/
+ 
+
+#second-paragraph, .managementese-first {
+    color :black; /* using '!important' is possible but
+    is considered bad practice */
+    background-color: darkolivegreen;
+}
+
+
+
+.managementese-last {
+    color :black;
+    background-color:darkolivegreen;
+}
+
+body {
+    background-image: url(../images/pexels-andreea-ch-1166644.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h4 {
+    font-size: larger;
+    font-family:tahoma;
+    text-align: center;
+    text-decoration: underline;
+    background-color: darkolivegreen;
+}
+
+img {
+border: 5px solid black;
+border-bottom: 5px solid darkolivegreen;
+border-radius: 50px;
+box-shadow: 5px 5px 10px da;
+}
